@@ -1,4 +1,6 @@
+import { Button } from '@w'
 export default function Index() {
+
   /*
    * Replace the elements below with your own.
    *
